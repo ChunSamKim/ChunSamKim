@@ -2,6 +2,22 @@
 
 ### 🚀 참여 프로젝트
 
-- 🔗 [**교통사고 전문 법률상담 플랫폼 과실제로**](https://github.com/SaeByeol5285/project-gwasilzero)
-  1. SpringBoot 팀 프로젝트(5인)
+1. [**교통사고 전문 법률상담 플랫폼 과실제로**](https://github.com/SaeByeol5285/project-gwasilzero)  
+   🛠 SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;👥 팀 프로젝트 (5인)  
+   ▸ 교통사고 전문 법률상담 플랫폼  
+   ▸ 주요 기능(1~3번) 담당 및 프론트-백엔드 연동 구현  
 
+2. [**건강한 습관 만들기 앱 루틴로그**](https://github.com/Yeonju02/flutter_project)  
+   🛠 Flutter &nbsp;&nbsp;&nbsp;&nbsp;👥 팀 프로젝트 (4인)  
+   ▸ 아침/밤 루틴 관리와 보상 시스템 제공  
+   ▸ 캘린더, 알림, 경험치 시스템 등 UX 중심 기능 구현  
+
+3. [**여성들을 위한 코디추천 앱 O.O**](https://github.com/M00NPANG/SenierProject_O.O)  
+   🛠 Kotlin · SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;👥 팀 프로젝트 (4인)  
+   ▸ 사용자의 성향/날씨 기반 AI 코디 추천  
+   ▸ 코디 피드, 북마크, 게시판 등 주요 기능 개발  
+
+4. [**공통 관심사 기반 그룹 SNS Bandee**](https://github.com/ChunSamKim/indi_band)  
+   🛠 React.js · Node.js &nbsp;&nbsp;&nbsp;&nbsp;👤 개인 프로젝트  
+   ▸ 그룹 생성 및 태그 기반 검색  
+   ▸ 일정 공유, 채팅, 피드 등 커뮤니티 기능 구현
